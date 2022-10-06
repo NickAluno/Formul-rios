@@ -1,0 +1,28 @@
+html{
+  background: SaddleBrown;
+  color: NavajoWhite;
+}
+
+.pi{
+  background: SandyBrown;
+  margin-top: 20px;
+}
+
+img{
+  width: 50%;
+  margin-left: 400px;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: SaddleBrown;
+}
+
+.pox{
+  font-size: 20px;
+  margin: 0 700px 30px;
+}
+
+form label, form p{
+  display: block;
+  font-size: 20px;
+  margin: 0 700px 30px;
+}
